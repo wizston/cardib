@@ -1,5 +1,5 @@
 {
-    cars: [{
+    "cars": [{
         manufacturer: 'Porsche',
         model: '911',
         price: 135000,
