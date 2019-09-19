@@ -5,35 +5,35 @@
           "model": "911",
           "price": 135000,
           "wiki": "http://en.wikipedia.org/wiki/Porsche_997",
-          "img": "2004_Porsche_911_Carrera_type_997.jpg"
+          "img": "https://www.asncars.com/carpics/1006/L/L_Carpic_D-1006_S-12213_1.jpg"
       },
       {
           "manufacturer": "Nissan",
           "model": "GT-R",
           "price": 80000,
           "wiki": "http://en.wikipedia.org/wiki/Nissan_Gt-r",
-          "img": "250px-Nissan_GT-R.jpg"
+          "img": "https://www.asncars.com/carpics/1006/L/L_Carpic_D-1006_S-11719_1.jpg"
       },
       {
           "manufacturer": "BMW",
           "model": "M3",
           "price": 60500,
           "wiki": "http://en.wikipedia.org/wiki/Bmw_m3",
-          "img": "250px-BMW_M3_E92.jpg"
+          "img": "https://www.asncars.com/carpics/1006/L/L_Carpic_D-1006_S-12265_1.jpg"
       },
       {
           "manufacturer": "Audi",
           "model": "S5",
           "price": 53000,
           "wiki": "http://en.wikipedia.org/wiki/Audi_S5#Audi_S5",
-          "img": "250px-Audi_S5.jpg"
+          "img": "https://www.asncars.com/carpics/1006/L/L_Carpic_D-1006_S-12303_1.jpg"
       },
       {
           "manufacturer": "Audi",
           "model": "TT",
           "price": 40000,
           "wiki": "http://en.wikipedia.org/wiki/Audi_TT",
-          "img": "250px-2007_Audi_TT_Coupe.jpg"
+          "img": "https://www.asncars.com/carpics/1006/L/L_Carpic_D-1006_S-12334_1.jpg"
       }
   ]
 }
