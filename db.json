@@ -46,11 +46,12 @@
           "img": "https://www.asncars.com/carpics/1006/L/L_Carpic_D-1006_S-12334_1.jpg"
       }
   ],
-  users: [
+  "users": [
       {
           "id": 1,
           "email": "",
           "password": "",
+          "isAdmin": ""
       }
   ],
 }
